@@ -13,3 +13,5 @@ Missing modernizer Problem solution:
 Making admin user and password  command and git lab shell install problem:
 
 	Download the git lab shell first before attempting from: https://www.digitalocean.com/community/articles/how-to-set-up-gitlab-as-your-very-own-private-github-clone
+
+Main problem is with NGINX and what to type into the address bar to get to gitlab's homescreen.
